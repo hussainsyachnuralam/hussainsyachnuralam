@@ -14,7 +14,12 @@
 
 ###
 
-<!-- <h3 align="left">Language and Tools!</h3> -->
+<h3 align="left">Connect With Me!</h3>
+
+###
+<p align="left">
+<a href="https://www.linkedin.com/in/hussainsyachnuralam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussainsyachnuralam" height="30" width="40" /></a>
+<a href="https://www.instagram.com/hsnlam_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hsnlam_" height="30" width="40" /></a>
 
 ###
 
