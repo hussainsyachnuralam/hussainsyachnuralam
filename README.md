@@ -3,7 +3,7 @@
 ###
 <h3 align="left">My Portofolio :  </h3>
 
-<img align="left" width = "300" height="300" src="https://media.tenor.com/meZiCF6wF90AAAAd/newjeans-newjeans-bunny.gif"  />
+<img align="right" height="300" src="https://media.tenor.com/meZiCF6wF90AAAAd/newjeans-newjeans-bunny.gif"  />
 
 ###
 
