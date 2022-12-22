@@ -3,7 +3,7 @@
 ###
 <h3 align="left">My Portofolio :  </h3>
 
-<img align="right" height="300" src="https://tenor.com/bZ6et.gif"  />
+<img align="right" height="300" src="https://static.wikia.nocookie.net/witchers/images/c/c9/NewJeans_New_Jeans_Apple_Music_cover_art.gif/revision/latest?cb=20220823190410"  />
 
 ###
 
